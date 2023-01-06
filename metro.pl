@@ -1006,7 +1006,7 @@ ruta(VerticePartida, VerticeLlegada, Ruta, PesoAcumulado) :-
  *
  * Este predicado es el predicado auxiliar del predicado ruta. Dados dos vértices cualesquiera,
  * nos encuentra el conjunto de todas las rutas existentes en orden inverso. (El tercer parámetro 
- * -el acumulador auxiliar- siempre tiene ser la lista compuesta por el vértice de partida y nadamás) 
+ * -el acumulador auxiliar- siempre tiene que ser la lista compuesta por el vértice de partida y nadamás) 
  *****************************************************************************************************/
 	 
 % Caso cuando navegamos por vértices vecinos
