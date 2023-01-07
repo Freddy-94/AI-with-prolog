@@ -18,6 +18,9 @@
  *				arista, y n es el número de trasbordos posibles en el 
  *			    vértice destino de la arista. 
  *
+ *              El programa inicia al ejecutar la instrucción:
+ *              bienvenida(Ruta, Peso).
+ * 
  *				Predicados relevantes:
  *				 bienvenida
  *				 mejorRuta
