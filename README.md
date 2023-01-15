@@ -3,7 +3,7 @@
 ## Description
 
 This program represents the complete graph of Mexico's city subway. Further, it provides the necessary predicates to inform a user for the best and worst routes (in time) to take, between whatever two stations.
-We consider a directed weight graph, where the time asociated to an edge is estimated by the formula:
+We consider a directed weighted graph, where the time asociated to an edge is estimated by the formula:
  
            ((5 min) * g ) + n*(10 min)
 
@@ -21,10 +21,10 @@ Then, the program gives a welcome message to the user, and ask her to select bet
 In case that the user writes an invalid option, the program will reply to her that she entered a wrong option, and kindly provide a valid one.
  
 Relevant predicates:
-  bienvenida -> Welcome message to the user
-  mejorRuta  -> Find best route to navigate 
-  peorRuta   -> Find worst route to navigate
-  *todasLasRutas (It is included in mejorRuta and peorRuta. However, it is included as an additional predicate.
+1.  bienvenida -> Welcome message to the user
+2.  mejorRuta  -> Find best route to navigate 
+3.  peorRuta   -> Find worst route to navigate
+4.  *todasLasRutas (It is included in mejorRuta and peorRuta. However, it is included as an additional predicate.
 
 Mexico's City subwaw:
 
