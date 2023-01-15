@@ -26,6 +26,6 @@ Relevant predicates:
 3.  peorRuta   -> Find worst route to navigate
 4.  *todasLasRutas (It is included in mejorRuta and peorRuta. However, it is included as an additional predicate.
 
-Mexico's City subwaw:
+Mexico's City subway:
 
 ![alt text](https://github.com/Freddy-94/Mexico_City_Subway/blob/main/plano_red_metro_cdmx.jpg)
